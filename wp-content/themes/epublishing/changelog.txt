@@ -1,0 +1,17 @@
+ePublishing 
+
+/*************************************************
+Version 1.2.2
+*************************************************/
+- updated the css media queries for small screen devices
+
+/*************************************************
+Version 1.2.1
+*************************************************/
+- fixed the seo-seeded footer link anchor text
+
+/****************************************
+Version 1.2
+****************************************/
+- replaced get_template_directory_uri() with get_stylesheet_uri() to enqueue stylesheet in functions.php
+- updated the footer credit
